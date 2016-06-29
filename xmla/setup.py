@@ -8,7 +8,7 @@ long_description = open("README.rst").read() + "\n\n" +  open("CHANGES.md").read
 install_requires=[
     'olap',
     'suds',
-    'requests == 1.2.3'
+    'requests'
     ]
 
 extras_require = {
