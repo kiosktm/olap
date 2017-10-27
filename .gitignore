@@ -6,6 +6,11 @@
 /develop-eggs
 /bin
 cover
+/olap/build
+/xmla/build
+/olap/dist
+/xmla/dist
+/venv
 
 PKG-INFO
 MANIFEST
